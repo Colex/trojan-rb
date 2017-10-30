@@ -1,0 +1,13 @@
+*
+!.gitignore
+!lib/
+!lib/**
+!spec/
+!spec/**
+!.travis.yml
+!Gemfile
+!Gemfile.lock
+!Rakefile
+!README.md
+!release
+!trojan.gemspec
